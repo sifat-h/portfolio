@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="221.77249mm"
+   height="114.37162mm"
+   viewBox="0 0 221.77249 114.37162"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="Toronto Metropolitan University 2022 (Icon).svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.64052329"
+     inkscape:cx="459.78032"
+     inkscape:cy="370.00997"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(16.601473,-50.22327)">
+    <g
+       style="overflow:visible"
+       id="g859"
+       transform="matrix(1.290876,0,0,1.290876,-34.802825,-21.678524)">
+      <g
+         id="g842"> <g
+   id="g830"> <rect
+   x="121.4"
+   y="55.700001"
+   fill="#ffdc00"
+   width="64.5"
+   height="73.5"
+   id="rect828" />
+ </g>
+ <g
+   id="g834"> <rect
+   x="14.1"
+   y="70.400002"
+   fill="#004c9b"
+   width="157.2"
+   height="73.900002"
+   id="rect832" />
+ </g>
+ <path
+   fill="#ffffff"
+   d="M 62.3,92.9 H 49.6 L 49,93.5 v 35.6 l -0.6,0.6 h -7.6 l -0.6,-0.6 V 93.5 L 39.6,92.9 H 26.7 L 26,92.3 v -6.4 l 0.6,-0.6 h 35.6 l 0.6,0.6 v 6.4 z"
+   id="path836" />
+ <polygon
+   fill="#ffffff"
+   points="87.5,129.6 86.9,129 78.3,104.8 77.7,104.8 77.7,129 77.1,129.6 69.5,129.6 68.8,129 68.8,85.9 69.5,85.3 79,85.3 79.6,85.9 90.7,116.9 91.4,116.9 102.4,85.9 103,85.3 112.5,85.3 113.1,85.9 113.1,129 112.5,129.6 104.9,129.6 104.3,129 104.3,104.8 103.7,104.8 95.1,129 94.5,129.6 "
+   id="polygon838" />
+ <path
+   fill="#ffffff"
+   d="m 156.6,112.5 c 0,11.4 -6.4,17.8 -17.8,17.8 -11.4,0 -17.8,-6.4 -17.8,-17.8 V 85.8 l 0.6,-0.6 h 7.6 l 0.6,0.6 v 26.7 c 0,6.4 2.5,10.2 8.9,10.2 6.4,0 8.9,-3.8 8.9,-10.2 V 85.8 l 0.6,-0.6 h 7.6 l 0.6,0.6 v 26.7 z"
+   id="path840" />
+ </g>
+    </g>
+  </g>
+</svg>
